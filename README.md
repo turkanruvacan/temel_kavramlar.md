@@ -1,1 +1,0 @@
-# temel_kavramlar.md
